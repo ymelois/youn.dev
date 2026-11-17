@@ -1,6 +1,6 @@
-+++
-template = "index.html"
-+++
+---
+template: "index.html"
+---
 
 Thank you for coming to my website 🙇
 

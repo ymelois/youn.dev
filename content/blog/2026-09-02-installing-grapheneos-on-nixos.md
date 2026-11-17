@@ -1,8 +1,8 @@
-+++
-title = "Installing GrapheneOS on NixOS"
-description = "Installing GrapheneOS from NixOS using Chromium and WebUSB."
-tags = ["GrapheneOS", "NixOS"]
-+++
+---
+title: "Installing GrapheneOS on NixOS"
+description: "Installing GrapheneOS from NixOS using Chromium and WebUSB."
+tags: ["GrapheneOS", "NixOS"]
+---
 
 I recently bought a Google Pixel 10a and today I received it. I always wanted to
 use GrapheneOS for various reasons I won't detail here, but never had a Pixel
